@@ -13,6 +13,9 @@ Now I've gotta figure out how to do the front end.
 2. Load and display backend API.
 3. Do both with a tree map.
 
+## Leads
+- [How to load a JSON file in React](http://4dev.tech/2017/12/how-to-load-a-json-file-in-reactjs/)
+
 ## Figure out what this is
 http://tweet-tree-backend.herokuapp.com/apidocs/#/
 
