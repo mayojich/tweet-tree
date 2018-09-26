@@ -1,5 +1,6 @@
-# Backend for tweet-tree
-API endpoint: http://tweet-tree-backend.herokuapp.com/
+# Tweet-tree
+Most of the backend has been completed. API endpoint: http://tweet-tree-backend.herokuapp.com/.  
+Now I've gotta figure out how to do the front end.
 
 ## One Step At A Time
 1. Load and display json file locally.
