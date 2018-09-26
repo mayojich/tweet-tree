@@ -18,3 +18,4 @@ http://tweet-tree-backend.herokuapp.com/apidocs/#/
 ## Stuffs
 - runs on heroku as a container
 - uses hidden files that you need to prep yourself
+- data from dummy.json was from [tweet](https://twitter.com/fchollet/status/1044304738186014720)
