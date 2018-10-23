@@ -1,22 +1,13 @@
 # Tweet-tree
-Most of the backend has been completed. [API endpoint](http://tweet-tree-backend.herokuapp.com/).
-
-Now I've gotta figure out how to do the front end.
+[Demo](https://mmxwmrmlz9.codesandbox.io/)
+[Code](https://github.com/mayojich/Tweet-Sentiment)
 
 **Navigate**
 - [One Step At A Time](#one-step-at-a-time)
 - [Figure out what this is](#figure-out-what-this-is)
 - [Stuffs](#stuffs)
 
-## One Step At A Time
-1. Load and display json file locally.
-2. Load and display backend API.
-3. Do both with a tree map.
-
-## Leads
-- [How to load a JSON file in React](http://4dev.tech/2017/12/how-to-load-a-json-file-in-reactjs/)
-
-## Figure out what this is
+## Flasgger
 http://tweet-tree-backend.herokuapp.com/apidocs/#/
 
 ## Stuffs
